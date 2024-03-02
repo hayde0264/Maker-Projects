@@ -1,6 +1,6 @@
 # Maker-Projects
 
-## Board 
+## Boards
 
 
 ## Software Used 
