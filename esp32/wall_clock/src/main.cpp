@@ -540,8 +540,8 @@ MD_Parola P = MD_Parola(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN, MAX_DEVICES);
 #define MAX_MESG 20
 
 /**********  User Config Setting   ******************************/
-char *ssid = "919";
-char *password = "xuprev8xexap";
+char *ssid = "";
+char *password = "";
 // calculate your timezone in seconds,1 hour = 3600 seconds and 5.30Hrs = 19800
 const int timezoneinSeconds = 19800;
 /***************************************************************/
